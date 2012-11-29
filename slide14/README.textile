@@ -1,0 +1,11 @@
+h1. Slide 14: R and ggplot2
+
+This slide shows the comparative movement in Google searches for data journalism and data science over time since the mid-200s.
+
+h2. The data
+
+The data comes from "Google Trends":http://www.google.com/trends/, which was then exported to CSV and cleaned up a bit to make the import easier for R.
+
+h2. The code
+
+There's not much to this code in googletrends.R, but it shows a simple example of the amazing "ggplot2 library":http://ggplot2.org/, created by Hadley Wickham. The script produces a line chart of the movement in search volume for each term over time, and it does it in basically one line of code.

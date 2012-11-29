@@ -1,0 +1,13 @@
+h1. Slide 10: Web scraping plus simple visualizations with matplotlib
+
+This slide shows the growing and shrinking popularity of various data journalism skills over time, as evidenced by search results from NICAR-L listserv archives. "NICAR-L":http://www.ire.org/resource-center/listservs/subscribe-nicar-l/, has long been the primary listserv of the data journalism community and remains one of the primary forums where the craft is discussed.
+
+h2. The data
+
+The data comes from search results from NICAR-L archives. The slide is based on simple counts of search results for select terms, which were visualized over time using the matplotlib Python graphing library. You can see some of the preliminary graphs in the included data folder.
+
+h2. The code
+
+The scraper here is slightly more complex than the scraper from the previous slide, but it does something fundamentally similar: It goes into a website, in this case the old NICAR-L archives, and extracts the relevant bits for later analysis. This scraper also makes of the "matplotlib":http://matplotlib.org/ plotting library to represent counts as year-over-year histograms.
+
+You can use the script to query for any term you're curious about. Simply change the QUERY global variable at the top of the script and then run with <pre>python scraper.py</pre>.

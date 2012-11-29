@@ -1,1 +1,13 @@
-https://github.com/mrdoob/three.js/wiki/How-to-run-things-locally
+Slide 12: Symbolic mapping with D3.js
+
+This slide shows the locations of IRE members in the U.S. who identify as having computer-assisted reporting or data journalism skills. The bigger the dot, the more people with those skills live in that city. The data is visualized using the fantastic "D3.js library":http://d3js.org/, created by Mike Bostock, now of The New York Times.
+
+h2. The data
+
+The raw data used to create this visualization, namely the IRE member database, isn't included in this repository. But the data in the included car-by-state.csv file were generated using a SQL query that produced a count of members with data journalism skills by city. That data was run through a "free batch geocoding service":http://www.gpsvisualizer.com/geocoder/ that assigned latitude and longitude to each city.
+
+h2. The code
+
+The coordinates and counts from the csv file were then fed into the javascript in the included state-map.html. You should be able to open and run the HTML file locally, but you first might need to change your browser's security policy to allow the javascript to properly access local files.
+
+You can do that by following the instructions "here":https://github.com/mrdoob/three.js/wiki/How-to-run-things-locally for Chrome or Firefox. But by warned that this will make your browser substantially less secure, so you should change the policy back when you're done.

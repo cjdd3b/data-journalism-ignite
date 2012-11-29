@@ -1,0 +1,11 @@
+h1. Slide 9: Web scraping with Python
+
+This slide provides a comparison to the previous one by showing how NICARhands-on panel subjects have changed between 1998 and 2012. The data is scraped directly from the "NICAR 2012 conference program":http://www.ire.org/conferences/nicar-2012/schedule/ on IRE's website.
+
+h2. The data
+
+The data being collected is the title of hands-on classes from the 2012 NICAR conference.
+
+h2. The code
+
+The included program, scraper.py, uses Python and its awesomely useful "BeautifulSoup library":http://www.crummy.com/software/BeautifulSoup/ to scrape the hands-on class titles and put them into a text file, from which different skill types can (again) be counted.

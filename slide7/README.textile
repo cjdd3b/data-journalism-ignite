@@ -1,4 +1,4 @@
-h1. More basic Excel
+h1. Slide 7: More basic Excel plus quasi-calendar view viz
 
 This slide shows situations in which data or data analysis was explicitly referenced in stories that won the Pulitzer Prize for investigative journalism between 1985 and 2012.
 

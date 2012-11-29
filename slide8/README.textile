@@ -1,2 +1,19 @@
-pdftotext: http://www.bluem.net/en/mac/packages/
-pdftk: http://www.pdflabs.com/docs/install-pdftk/
+h1. Slide 8: PDF processing tools
+
+PDF processing tools like "pdftotext":http://www.bluem.net/en/mac/packages/ and "pdftk":http://www.pdflabs.com/docs/install-pdftk/ are important parts of any data journalist's toolbox. This slide processes parts of a NICAR conference schedule from 1998 into raw text, from which different types of skill references can be counted.
+
+h2. The data
+
+The data is a conference schedule from the 1998 national conference put on by the National Institute for Computer-Assisted Reporting. It is included here as indianacarfinal.pdf.
+
+h2. The code
+
+Processing this PDF is a two-step process. First, the only pages we're interested in are the ones that contain information on hands-on classes. In order to isolate those pages, we first used the burst command from pdftk to break the document into individual pages.
+
+<pre>pdftk indianacarfinal.pdf burst</pre>
+
+From there, we converted the two relevant pages to text using pdftotext:
+
+<pre>XXX</pre>
+
+And finally, we opened the resulting text file and counted terms by hand.

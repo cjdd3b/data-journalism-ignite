@@ -1,0 +1,15 @@
+InfoKey: Creator
+InfoValue: Adobe PageMaker 6.52
+InfoKey: Title
+InfoValue: Washington
+InfoKey: Author
+InfoValue: Wendy Charron
+InfoKey: Producer
+InfoValue: Acrobat Distiller 3.0 for Power Macintosh
+InfoKey: Subject
+InfoValue: Washington
+InfoKey: CreationDate
+InfoValue: D:19980226170412
+PdfID0: 3f2c7b9431a2923a287388728639b057
+PdfID1: 3f2c7b9431a2923a287388728639b057
+NumberOfPages: 12

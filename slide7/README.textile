@@ -1,0 +1,11 @@
+h1. More basic Excel
+
+This slide shows situations in which data or data analysis was explicitly referenced in stories that won the Pulitzer Prize for investigative journalism between 1985 and 2012.
+
+h2. The data
+
+The data was gathered by hand from the "Pulitzer website":http://www.pulitzer.org and other research. The critiera for determining whether data was instrumental to the story was whether it was referenced directly in the text of submitted stories.
+
+h3. The visualization
+
+The visualization was inspired by a "similar technique":http://rainmaker.apps.cironline.org/donors/stephen-l-bing/ we used at the Center for Investigative Reporting to outline trends in political campaign giving by wealthy donors.

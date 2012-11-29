@@ -1,0 +1,19 @@
+h1. Slide 5: Latent Dirichlet Allocation (LDA)
+
+This slide relies on several summaries of a 1991 revision of Phil Meyer's book, known as "The New Precision Journalism":http://www.unc.edu/~pmeyer/book/, using a technique called ""Latent Dirichlet Allocation":http://en.wikipedia.org/wiki/Latent_Dirichlet_allocation, or LDA for short.
+
+LDA is a natural language processing tool used for topic discovery in large texts. In this context, it was run a number of different times using varied numbers of iterations to try and tease out core topics in The New Precision Journalism, which could be represented with small numbers of words on a slide.
+
+In practical terms, it's a great way to distill a text down into its core themes.
+
+h2. The data
+
+The data is a cleaned version of The New Precision Journalism with stopwords removed by the included clean.py file.
+
+h3. The code
+
+The implementation of LDA used here was created by Github user shuyo and "posted here.":https://github.com/shuyo/iir/tree/master/lda It can be run from the command line like so:
+
+<pre>./lda.py -f data/clean_pj.txt -k 10 -i 50</pre>
+
+With the -k (number of topics) and -i (number of iterations) being varied to suit your application.

@@ -1,0 +1,13 @@
+h1. Slide 4: Principal component analysis and eigenfaces
+
+"Eigenfaces":http://en.wikipedia.org/wiki/Eigenface are a common tool in the computer vision problem of facial recognition. They also look super creepy and cool.
+
+Thyr are generated using a technique called "principal component analysis":http://en.wikipedia.org/wiki/Principal_component_analysis which is a dimensionality reduction trick often used in data mining and machine learning. It's included here because it represents some of the more nontraditional techniques that data journalists have begun to adopt.
+
+h2. The data
+
+The data is a handful of pictures of "Phil Meyer":http://en.wikipedia.org/wiki/Philip_Meyer found on Google image search.
+
+h3. The code
+
+The code is modified from another eigenface "implementation":http://osdir.com/ml/python-numeric-general/2008-03/msg00458.html found on several online message boards.

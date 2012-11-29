@@ -1,0 +1,18 @@
+h1. Slide 15: Measuring word co-occurrence with Python
+
+The next two slides showcase major similarities and differences, respectively, between two documents that describe data journalism and data science: "The Data Journalism Handbook":http://datajournalismhandbook.org/, with contributions by experts across the data journalism community, and the article "What is Data Science?":http://radar.oreilly.com/2010/06/what-is-data-science.html by Roger Magoulas of O'Reilly media.
+
+This slide shows some major themes that are similar in both documents, as determined by word co-occurrence -- or important words that tend to occur frequently in both documents. I looked over those words and grouped them myself into the themes (because yes, human interpretation is still an important part of data journalism).
+
+h2. The data
+
+The input data is the first chapter of The Data Journalism Handbook, which covers what data journalism is and why it's important, and the entirety of the "What is Data Science?" piece. The code removes stopwords and punctuation and does some other cleanup to the data before processing.
+
+h2. The code
+
+The script loops over the words in each document and assigns high scores to words that:
+
+- Occur frequently in both documents
+- Occur in relatively equal proportions in both documents
+
+The metric used in the code was invented on the back of a napkin and probably isn't ideal, but it seems to nail the terms that fit the criteria.

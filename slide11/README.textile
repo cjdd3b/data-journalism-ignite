@@ -1,0 +1,11 @@
+h1. Slide 11: SQL
+
+SQL has been a core part of the data journalist's skillset for decades, useful primarily for summarizing large datasets or finding needles in haystacks.
+
+h2. The data
+
+The data in this case is a SQLite database of every post to "IRE's Extra-Extra blog":http://www.ire.org/blog/extra-extra/, which keeps track of investigative and data journalism stories. The database here is an incomplete version of the real thing, so the results from this query might not match up to the findings on the slide.
+
+h2. The code
+
+The query here is designed to count the subject headings under which CAR stories have appeared over time. Basically, it shows the types of stories that data journalism has been applied to since 2005.

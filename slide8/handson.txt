@@ -1,0 +1,172 @@
+________________________________________________________________________
+
+Hands-on Classes: Each hands-on class for Indianapolis is designed to give you a specific skill in an hour and a half. Every class is assigned a level: Basic, Intermediate, Advanced or Expert. Here's what they mean: ________________________________________________________________________ Levels of training Available: q Basic s Intermediate v Advanced 5 Expert ________________________________________________________________________
+
+PRELIMINARY HANDS-ON COMPUTER-ASSISTED REPORTING CLASSES
+________________________________________________________________________
+
+CHECK AT REGISTRATION FOR UPDATED SCHEDULE.
+
+CAR TRAINING CLASSES
+
+Bryce Canyon Room Hyatt
+
+Everglades Room - Hyatt
+
+Sequoia Room - Hyatt
+
+Yellowstone Room Hyatt
+
+Thursday 1:30 p.m.
+
+q Access Basics I. (filtering and searching)
+
+v ArcView: Introduction to mapping
+
+v Switching from FoxPro to Access
+
+5 Introduction to Intranets using Active Server Pages
+
+Thursday 3:00 p.m.
+
+q Access Basics II. (summarizing, counting and summing)
+
+5 ArcView: Intermediate mapping
+
+q Windows: Computer Basics ­ (using a mouse, understanding folders, using menus)
+
+5 Introduction to Intranets using Cold Fusion
+
+Friday 9:00 a.m.
+
+s Access Importing (strategies, problems, text and other files, creating new fields from old, using formulas) q Access Basics II. (summarizing, counting and summing) 5 ArcView: Advanced mapping (geocoding)
+
+q Excel for sports reporters (sorting, running totals, averages)
+
+q Access Basics I. (filtering and searching)
+
+Friday 10:30 a.m.
+
+v Excel: Date and time values (ages, response times, date math)
+
+5 FoxPro script-writing for data cleaning
+
+Friday 1:30 p.m.
+
+s Access for crime and court reporters
+
+q Access Basics III. (joining and matching tables)
+
+s Access: Transportation databases (creating new fields, getting rates)
+
+v Access: Building front ends (look-up forms, data entry forms, etc.)
+
+Friday 3:00 p.m.
+
+s Excel using crime spreadsheets (sorting larger files, ranking, ratios, more complex formulas, etc.)
+
+v Access: Cleaning data (splitting names, creating summary categories, etc.)
+
+v Access: Aviation databases for beat reporters (SDR, etc.)
+
+s Access Refresher (filtering, searching, summarizing, counting, summing, joining)
+
+Saturday 9:00 a.m.
+
+v ArcView: Introduction to mapping
+
+v Switching from Paradox to Access
+
+s Access Refresher (filtering, searching, summarizing, counting, summing, joining)
+
+Saturday 10:30 a.m.
+
+q Access Basics I. (filtering and searching)
+
+s Excel Refresher (formulas, sorting, rates, ratios, more complex formulas)
+
+v Advanced databases: Switching to Visual Fox (filtering, joining, importing, summarizing) s Cleaning data with a word processor
+
+q Access Basics II. (summarizing, counting and summing)
+
+Saturday 1:30 p.m.
+
+q Excel for local government reporters (budgets, salaries)
+
+5 Access: Introduction to VBA (creating functions, procedures with programs)
+
+Saturday 3:00 p.m.
+
+s Access refresher using campaign finance records
+
+q Access Basics III. (joining and matching tables)
+
+v Excel: Pivot tables (grouping, consolidating, converting data, etc.)
+
+6
+
+6
+
+Yosemite Room - Hyatt
+
+Mac Lab 2121 - IU/PUI
+
+Mac Lab 2124 - IU/PUI
+
+Win Lab 2116 - IU/PUI
+
+Win Lab 2119 - IU/PUI
+
+v Basic SPSS, without statistics: How statistical software can help without any statistical theory
+
+q Internet: Basic reporting tips ­ (navigating in Netscape, evaluating sites, developing a reporting strategy) s Excel Refresher (formulas, sorting, rates, ratios, more complex formulas)
+
+s Internet: Aviation-related sites
+
+s Access: Importing (strategies, problems, text and other files, creating new fields from old, using formulas)
+
+s Searching the Internet (search engines, Boolean logic, understanding results, improving results)
+
+s Access Refresher (filtering, searching, summarizing, counting, summing, joining)
+
+q Internet: Backgrounding people ­ (newsgroups, peoplefinders, tricks)
+
+v Basic statistics with SPSS (descriptives, frequencies)
+
+q Excel: Basic Spreadsheet skills (sorting, creating formulas, averages, differences, percentage differences) q Internet: Basic reporting tips ­ (navigating in Netscape, evaluating sites, developing a reporting strategy) q Excel: Basic Spreadsheet skills (sorting, creating formulas, averages, differences, percentage differences) q Internet: Basic reporting tips ­ (navigating in Netscape, evaluating sites, developing a reporting strategy) s Searching the Internet (search engines, Boolean logic, understanding results, improving results) s Excel: Downloading from the Internet (text files, HTML tables, etc.) v Internet: Using the Census site effectively (lookup tools, downloading)
+
+v Access: Working with death records (causes, ages, etc.)
+
+v Excel: Another data cleanup tool (print images, complex formulas)
+
+s Internet: Getting the most out of campaign finance sites (Some spreadsheet skills used)
+
+s Internet: Dealing with odd file formats, including zipped files and Adobe Acrobat
+
+s Excel: Analyzing a school budget (percentages, rankings, ratios, etc.)
+
+s Excel: Downloading from the Internet (text files, HTML tables, etc.)
+
+s Searching the Internet (search engines, Boolean logic, understanding results, improving results) q Internet: Backgrounding companies ­ (public, private, not-for-profit)
+
+5 Linear regression techniques and diagnostics with SPSS
+
+s Internet: Business and economics sites (Edgar, others)
+
+v Basic SPSS, without statistics: How statistical software can help without any statistical theory
+
+q Excel: Basic Spreadsheet skills (sorting, creating formulas, averages, differences, percentage differences) s Excel Refresher (formulas, sorting, rates, ratios, more complex formulas)
+
+q Internet: Basic reporting tips ­ (navigating in Netscape, evaluating sites, developing a reporting strategy)
+
+q Internet: Site of particular interest to broadcasters
+
+s Access: Building databases (for your notes, to analyze paper records)
+
+q Access for broadcasters (filtering, joining)
+
+7
+
+7
+
+

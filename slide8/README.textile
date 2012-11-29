@@ -1,0 +1,2 @@
+pdftotext: http://www.bluem.net/en/mac/packages/
+pdftk: http://www.pdflabs.com/docs/install-pdftk/

@@ -1,0 +1,26 @@
+h1. Using data to explore the evolution of data journalism
+
+This is the source code and documentation for an Ignite talk given by Chase Davis at NewsFoo 2012.
+
+The talk uses various data journalism tools techniques, present and future, to show the evolution of data journalism. When video of the talk is available, we'll post it here!
+
+h2. Project layout
+
+The presentation is divided up into 20 slides, about 14 of which use data and data journalism techniques. The project is split into separate folders for each slide. The Powerpoint presentation is also included here for reference.
+
+h2. Tools and techniques
+
+Some of the tools and techniques used in this presentation include:
+
+* Spreadsheet munging: Sorting, pivot tables, etc.
+* Aggregate SQL queries
+* PDF processing with pdftk and XPdf
+* Web scraping with Python
+* Simple data visualization using R
+* Basic symbol mapping using D3.js
+* Social network analysis with Gephi
+* Principal component analysis
+* Document term comparison using TF-IDF
+* Latent Dirichlet Allocation
+
+This presentation has been open sourced so people interested in learning more about data journalism can use it as a resource. If you're looking for tutorials or examples of any of the above techniques in action, this presentation is a good place to start!

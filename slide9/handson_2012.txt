@@ -1,0 +1,49 @@
+Tableau for Beginners
+NewsCamp::Jam Sessions
+NewsCamp::Music Lessons
+Tableau for Pros
+Fundamentals of programming in Python
+Excel 1
+Intro to Google Fusion Tables
+Intro to SQLite
+Introduction to SPSS
+SPSS: Basic linear regression
+Intro to Simile Exhibit
+Advanced Google Fusion Tables
+Excel 2
+Intro to MySQL
+Network analysis with NodeXL
+Excel 3
+SPSS: Using logistic regression
+Media Lawyers Brown Bag
+Access 1
+Mini-Boot Camp
+Build your first News App with Django
+Google Refine
+Access 2
+Advanced functions in Excel
+Access 3
+GeoCommons
+Intro to QGIS
+Intro to SQL with Access (part 1)
+RegEx to the rescue
+Web scraping without programming
+Intro to R
+Intro to SQL with Access (part 2)
+Getting data into Excel: From PDF to HTML
+Intro to QGIS 2
+American FactFinder 2
+Census.ire.org
+Web scraping
+CAR wash 1: How dirty is it?
+PowerPivot
+TileMill
+CAR wash 1 and 2: How dirty is it? and Cleaning
+Mini-Boot Camp part 2
+Displaying data geographically with ArcView
+Web Inspector
+Importing and selecting data by attribute with ArcView
+Geocoding to merge databases with addresses into maps with ArcView
+PANDA Project provisioning party
+Webscraping/data munging hackathon with Python
+Mini-Boot Camp part 3

@@ -1,4 +1,4 @@
-Slide 12: Symbolic mapping with D3.js
+h1. Slide 12: Symbolic mapping with D3.js
 
 This slide shows the locations of IRE members in the U.S. who identify as having computer-assisted reporting or data journalism skills. The bigger the dot, the more people with those skills live in that city. The data is visualized using the fantastic "D3.js library":http://d3js.org/, created by Mike Bostock, now of The New York Times.
 

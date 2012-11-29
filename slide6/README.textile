@@ -1,0 +1,7 @@
+h1. Slide 6: Simple Excel
+
+Nothing special here. This slide is simply based on a table of data taken from The Color of Money, the Atlanta Journal Constitution series that won a Pulitzer Prize for investigative journalism in 1989.
+
+h2. The data
+
+"The data":http://powerreporting.com/color/1c.html shows that qualified black borrowers from an area in DeKalb County, Georgia, were being denied home loans at a much greater rate than less qualified white borrowers in a nearby neighborhood.

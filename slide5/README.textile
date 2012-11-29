@@ -10,7 +10,7 @@ h2. The data
 
 The data is a cleaned version of The New Precision Journalism with stopwords removed by the included clean.py file.
 
-h3. The code
+h2. The code
 
 The implementation of LDA used here was created by Github user shuyo and "posted here.":https://github.com/shuyo/iir/tree/master/lda It can be run from the command line like so:
 

@@ -1,0 +1,11 @@
+h1. Slide 16: Finding key terms using TF-IDF
+
+This slide is almost the polar opposite of the previous one. Rather than looking for terms that occur frequently between the two documents, this slide focuses on terms that are unique to each document -- with the idea of showcasing major thematic differences between the two. It does this by weighting words in each document according to a metric known as term frequency inverse document frequency, or "TF-IDF.":http://en.wikipedia.org/wiki/Tf%E2%80%93idf
+
+h2. The data
+
+The data is the same as the previous slide: The first chapter of The Data Journalism Handbook, which covers what data journalism is and why it's important, and the entirety of the "What is Data Science?" piece.
+
+h2. The code
+
+The code uses a basic TF-IDF calculation to figure out which terms in each document are most unique to that document. The purpose of TF-IDF is to heavily weight terms that appear often in a single document, but infrequently across an entire collection of documents. So for example, a word like "journalism", which only appears in the Data Journalism Handbook would receive a high weight because it occurs often in one document but rarely, if ever, in the other. By contrast, a term like "data", which shows up often in both documents, would receive a lower weight because it is common across the entire collection.

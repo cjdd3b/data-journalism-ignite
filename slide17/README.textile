@@ -1,0 +1,13 @@
+h1. Slide 17: Gephi and social network analysis
+
+This slide uses the software program "Gephi":https://gephi.org/ to visualize a social network of data journalists who have attended NewsFoo since 2010. Nodes are individual data journalists. Edges (the connections between the nodes) represent some kind of personal or professional connection that I know, off the top of my head, that these people have (mostly: went to school together or worked together at some point).
+
+Interestingly, it seems like The New York Times and Chicago Tribune/NPR data journalism crews have been well represented at these conferences, with a smattering of other data journalists thrown in. A few people that didn't have obvious ties to others in the graph are missing to keep things a little cleaner.
+
+h2. The data
+
+The data comes from the NewsFoo attendee lists from "2010":http://newsfoo10.wiki.oreilly.com/wiki/index.php/News_Foo_Campers, "2011":http://newsfoo11.wiki.oreilly.com/wiki/index.php/News_Foo_Campers and "2012.":http://newsfoo12.wiki.oreilly.com/wiki/index.php/News_Foo_Campers The connections between people are based on my limited memory. The data is presented as an "adjacency matrix":http://en.wikipedia.org/wiki/Adjacency_matrix which can be fed into Gephi for visualization.
+
+h2. The software
+
+Gephi, the software used to present this graph, can take an adjacency matrix as input and create a network graph straight away. But the results are also saved here in a .gephi project file for convenience. The Force Atlas algorithm, which does a good job of highlighting points that cluster together, was used to lay out the graph.
